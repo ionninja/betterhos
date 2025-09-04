@@ -1,0 +1,16 @@
+{
+  "name": "betterbros-awareness",
+  "version": "1.0.0",
+  "description": "A simple one-page website to inform visitors about betterbros.com",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "betterbros",
+    "awareness",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
